@@ -12,7 +12,7 @@ python jianying-srt.py -j draft_content.json -t temp.txt -c totxt
 ### -j
 选填，需要导出的剪映字幕文件完整路径，默认会在当前目录下查找draft_content.json文件。
 
-### -i
+### -t
 选填，导出后的文本文件完整路径，默认会在当前目录下查找temp.txt文件。
 
 ### -c
